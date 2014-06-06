@@ -1,0 +1,18 @@
+img {
+	height: 50px;
+	width: 50px;
+}
+
+td {
+	border: 2px solid black;
+}
+
+table {
+	margin: auto;
+}
+
+.button {
+	height: 50px;
+	width: 50px;
+	background-color: 4169E1;
+}
